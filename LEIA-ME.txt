@@ -1,0 +1,8 @@
+LÓTUS MASSOTERAPIA E BEM-ESTAR — SITE DEMONSTRATIVO
+
+Abra index.html no navegador ou use Live Server no VS Code.
+Páginas: index.html, servicos.html, sobre.html, contato.html.
+Não exclua a pasta assets: ela contém a logo, o CSS e o JavaScript.
+Contatos provisórios de teste: substitua antes de publicar.
+O formulário abre o WhatsApp; não há agendamento automático ou armazenamento de dados.
+Fonte Google Fonts requer conexão; fontes alternativas funcionam offline.
