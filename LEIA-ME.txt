@@ -1,0 +1,17 @@
+LÓTUS MASSOTERAPIA E BEM-ESTAR — ATUALIZAÇÃO 02/11/2026
+
+Arquivos atualizados a partir da versão responsiva do site.
+
+Contato: lotusmassoterapiaebemestar@gmail.com
+Telefone informado: (51) 9552-0615
+Atenção: o número acima tem 8 dígitos sem o DDD. Como um celular brasileiro normalmente exige 9 dígitos, o botão de WhatsApp foi desativado até confirmação do número completo.
+O formulário agora prepara um E-MAIL (envio requer confirmação no aplicativo de e-mail do visitante).
+Instagram: aguardando perfil oficial; exibido como "Em breve".
+
+PUBLICAÇÃO NO GITHUB PAGES
+1. Extraia este ZIP.
+2. No repositório Site-Lotus, substitua os arquivos index.html, servicos.html, sobre.html, contato.html e os arquivos de assets (style.css, script.js, logo.jpg).
+3. Mantenha index.html e as demais páginas na raiz do repositório.
+4. Commit changes e confira o site após a publicação.
+
+Este é o projeto demonstrativo do TCC; não há agendamento automatizado.
