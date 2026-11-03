@@ -1,17 +1,26 @@
-LÓTUS MASSOTERAPIA E BEM-ESTAR — ATUALIZAÇÃO 02/11/2026
+LÓTUS MASSOTERAPIA E BEM-ESTAR — VERSÃO RESPONSIVA + INSTAGRAM OFICIAL 03/11/2026
 
-Arquivos atualizados a partir da versão responsiva do site.
+E-mail: lotusmassoterapiaebemestar@gmail.com
+WhatsApp / telefone confirmado: (51) 99552-0615
+Link: https://wa.me/5551995520615
+Instagram: https://www.instagram.com/lotus_massoterapia__/ (@lotus_massoterapia__, dois sublinhados finais)
 
-Contato: lotusmassoterapiaebemestar@gmail.com
-Telefone informado: (51) 9552-0615
-Atenção: o número acima tem 8 dígitos sem o DDD. Como um celular brasileiro normalmente exige 9 dígitos, o botão de WhatsApp foi desativado até confirmação do número completo.
-O formulário agora prepara um E-MAIL (envio requer confirmação no aplicativo de e-mail do visitante).
-Instagram: aguardando perfil oficial; exibido como "Em breve".
+O Instagram oficial foi incluído na página Contato e nos rodapés das quatro páginas.
+O formulário da página Contato abre o WhatsApp com a mensagem preenchida.
+O visitante precisa confirmar o envio pelo aplicativo WhatsApp.
+Não há sistema automatizado de agendamento, nem armazenamento de mensagens.
 
-PUBLICAÇÃO NO GITHUB PAGES
-1. Extraia este ZIP.
-2. No repositório Site-Lotus, substitua os arquivos index.html, servicos.html, sobre.html, contato.html e os arquivos de assets (style.css, script.js, logo.jpg).
-3. Mantenha index.html e as demais páginas na raiz do repositório.
-4. Commit changes e confira o site após a publicação.
+RESPONSIVIDADE
+Páginas com meta viewport, menu de celular, cartões em coluna, formulários
+com tipografia adequada e filtros roláveis. Teste nos seus aparelhos reais.
 
-Este é o projeto demonstrativo do TCC; não há agendamento automatizado.
+COMO PUBLICAR NO GITHUB PAGES
+1. Extraia este arquivo ZIP.
+2. Envie os arquivos de dentro da pasta para a raiz do repositório.
+3. Certifique-se de que index.html está na raiz, juntamente com
+   servicos.html, sobre.html, contato.html e a pasta assets.
+4. Salve com Commit changes.
+5. Abra Settings > Pages para conferir a publicação.
+6. No celular, recarregue a página; caso veja versão antiga, limpe o cache.
+
+Esta é uma versão demonstrativa do projeto TCC Lótus.
